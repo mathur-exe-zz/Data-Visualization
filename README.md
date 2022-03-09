@@ -14,7 +14,7 @@
 4. [Understanding the Gender Divide in Data Science Roles](https://medium.datadriveninvestor.com/exploratory-data-analysis-eda-understanding-the-gender-divide-in-data-science-roles-9faa5da44f5b)
 5. [StackOverFlow 2020 Developer Survey](https://insights.stackoverflow.com/survey/2020)
 ### Matplot
-- [Chart Gallery]()
+- [Chart Gallery](https://matplotlib.org/stable/gallery/)
 - [Markers](https://matplotlib.org/stable/api/markers_api.html)
 
 - [Color Plette](https://matplotlib.org/stable/gallery/color/named_colors.html)
